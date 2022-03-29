@@ -11,7 +11,7 @@ module top_level(
     wire clkSrc, clkSample, clkActivity, rst;
     //reg [24:0] trig=25'h00000000;
     reg [15:0] trig = 16'h00000000;
-    wire [31:0] clkProp;
+    (* mark_debug = "true" *) wire [31:0] clkProp;
     //wire [24:0] en;
     wire [15:0] en;
 
