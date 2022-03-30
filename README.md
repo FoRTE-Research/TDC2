@@ -10,9 +10,10 @@
 4. Add all '.v' files provided in this repository.
 5. Add '.xdc' file provided in this repository.
 6. Select Arty A7 board.
-7. From IP Catalog, search ILA. In general options -> change number of probes to 2. In Probe_Ports, change only probe0 width to 32.
-8. Select Ok and Genrate ILA.
-9. From Program and Debug, select Generate Bitstream (top right corner shows the ongoing operation).
-10. Once finished, open Hardware Manager -> Open Target -> Auto Connect -> Program Device. It should show Digilent board, select this and program.
-11. From ILA's Status window, select Run Trigger for this ILA, it will required generate waveforms. 
+7. Make sure top_level.v is selected as main file in sources.
+8. From IP Catalog, search ILA. In general options -> change number of probes to 2. In Probe_Ports, change only probe0 width to 32.
+9. Select Ok and Genrate ILA.
+10. From Program and Debug, select Generate Bitstream (top right corner shows the ongoing operation).
+11. Once finished, open Hardware Manager -> Open Target -> Auto Connect -> Program Device. It should show Digilent board, select this and program.
+12. From ILA's Status window, select Run Trigger for this ILA, it will required generate waveforms. 
 
