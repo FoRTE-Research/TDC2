@@ -1,0 +1,33 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot tdc_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.tdc_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-5021] port 'SWITCH' is not connected on this instance [A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sim_1/imports/new/tdc_tb.v:28]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "tdc_tb_time_synth.sdf", for root module "tdc_tb/u1".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "tdc_tb_time_synth.sdf", for root module "tdc_tb/u1".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.FDRE_default
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=6.0,C...
+Compiling module xil_defaultlib.clocks
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT4
+Compiling module xil_defaultlib.debouncer__3
+Compiling module xil_defaultlib.debouncer
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module xil_defaultlib.TDC
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2(INIT=4'b010)
+Compiling module xil_defaultlib.top_level
+Compiling module xil_defaultlib.tdc_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tdc_tb_time_synth

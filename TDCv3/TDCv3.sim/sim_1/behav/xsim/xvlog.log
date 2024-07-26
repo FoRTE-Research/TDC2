@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.gen/sources_1/ip/ila_0/sim/ila_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ila_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sources_1/imports/TDC2/TDC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TDC
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'clkProp' is not allowed [A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sources_1/imports/TDC2/TDC.v:13]
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sources_1/imports/TDC2/clocks.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clocks
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sources_1/imports/TDC2/debouncer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debouncer
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sources_1/imports/TDC2/top_level.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/Masters_VT/Lab/Hicks/TDC2/TDCv3/TDCv3.srcs/sim_1/imports/new/tdc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tdc_tb
