@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.gen/sources_1/ip/ila_0/sim/ila_0.v,1721715294,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/adder.v,,ila_0,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sim_1/new/adder_tb.v,1723016253,verilog,,,,tb_bit_adder,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sim_1/new/tb_fast_adders4.v,1720416457,verilog,,,,tb_clocks,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sim_1/new/top_tb.v,1721712182,verilog,,,,top_tb,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/imports/TDC2/debouncer.v,1720539788,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/fast_adder4.v,,debouncer,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/4_bit_adder.v,1723016853,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sim_1/new/adder_tb.v,,bit_adder,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/adder.v,1723004241,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/imports/TDC2/debouncer.v,,propchain,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/fast_adder4.v,1720581905,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/top.v,,clocks,,,,,,,,
+A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sources_1/new/top.v,1721712439,verilog,,A:/Masters_VT/Lab/Hicks/Fast_adder_4/Fast_adder_4.srcs/sim_1/new/top_tb.v,,top,,,,,,,,
